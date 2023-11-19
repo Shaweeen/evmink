@@ -1,4 +1,3 @@
-# 便宜Twitter令牌号：[hdd.cm](https://hdd.cm/)  单价低至0.2元
 
 **适用于所有EVM链**
 
